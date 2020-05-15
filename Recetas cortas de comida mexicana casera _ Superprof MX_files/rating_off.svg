@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon / star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="20 33.1671843 7.63932023 40 10 25.527864 1.38777878e-16 15.2786405 13.8196601 13.1671843 20 0 26.1803399 13.1671843 40 15.2786405 30 25.527864 32.3606798 40"></polygon>
+    </defs>
+    <g id="NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-26.000000, -27.000000)">
+            <g id="icon-/-star" transform="translate(26.000000, 27.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <path stroke="#FFCA49" d="M31.7014363,39.0642709 L29.4658967,25.3593061 L38.9625834,15.6259396 L25.8410823,13.6211526 L20,1.17675504 L14.1589177,13.6211526 L1.03741662,15.6259396 L10.5341033,25.3593061 L8.29856367,39.0642709 L20,32.5958759 L31.7014363,39.0642709 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

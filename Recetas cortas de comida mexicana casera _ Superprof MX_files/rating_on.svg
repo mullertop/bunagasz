@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon / star copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="20 33.1671843 7.63932023 40 10 25.527864 1.38777878e-16 15.2786405 13.8196601 13.1671843 20 0 26.1803399 13.1671843 40 15.2786405 30 25.527864 32.3606798 40"></polygon>
+    </defs>
+    <g id="NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-86.000000, -27.000000)">
+            <g id="icon-/-star-copy" transform="translate(86.000000, 27.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Star" fill="#FFCA49" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
